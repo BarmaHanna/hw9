@@ -1,0 +1,10 @@
+2023-04-02 22:31:27,435 [main] INFO  CalculatorTest - Two numbers were entered
+2023-04-02 22:31:27,435 [main] DEBUG CalculatorTest - Division complete successfully
+2023-04-02 22:31:27,451 [main] INFO  CalculatorTest - Two numbers were entered
+2023-04-02 22:31:27,451 [main] DEBUG CalculatorTest - Addition complete successfully
+2023-04-02 22:31:27,451 [main] INFO  CalculatorTest - Two numbers were entered
+2023-04-02 22:31:27,451 [main] DEBUG CalculatorTest - Multiplication complete successfully
+2023-04-02 22:31:27,451 [main] INFO  CalculatorTest - Two numbers were entered
+2023-04-02 22:31:27,466 [main] DEBUG CalculatorTest - Subtraction complete successfully
+
+Process finished with exit code 0
